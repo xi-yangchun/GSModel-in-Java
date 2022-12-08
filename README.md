@@ -2,6 +2,7 @@
 ## Requrements
 - Java
 - Swing
+run:
 ```
 javac main_gsm.java
 java main_gsm
