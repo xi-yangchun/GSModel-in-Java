@@ -1,6 +1,6 @@
 # Gray-Scott model in Java
 ## Requrements
-- Java
+- java
 - Swing
 ```
 javac main_gsm.java
